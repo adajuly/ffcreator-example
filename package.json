@@ -1,12 +1,12 @@
 {
   "name": "ffcreator-example",
   "version": "1.0.0",
-  "description": "",
+  "description": "FFCreator是一个基于node.js的轻量、灵活的短视频加工库。您只需要添加几张图片或视频片段再加一段背景音乐，就可以快速生成一个很酷的视频短片。",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js"
   },
-  "author": "",
+  "author": "adajuly",
   "license": "ISC",
   "dependencies": {
     "ffcreator": "^3.5.5",
